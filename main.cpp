@@ -1,3 +1,5 @@
-#include <iostream>
+#include "myLib.h"
 
-int main(){std::cout << "Hello World!";}
+int main(){
+	myLib::shoutout();
+}

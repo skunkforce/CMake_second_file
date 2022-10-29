@@ -1,1 +1,1 @@
-# CMake_hello_world
+# CMake_second_file
